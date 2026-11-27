@@ -1,0 +1,5 @@
+# Bakery Order Register (Project #87)
+#
+# The core logic and the terminal app (main.py) use ONLY the Python standard library.
+# The graphical interface (app.py) needs Streamlit (which also installs pandas):
+streamlit>=1.30
